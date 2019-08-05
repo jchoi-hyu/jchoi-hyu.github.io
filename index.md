@@ -18,7 +18,9 @@ pre {
 
 <!-- ![](email.png){ width=20% } -->
 
-Department of Electronic Engineering, Hanyang University
+<!-- Department of Electronic Engineering, Hanyang University -->
+Department of Electronic Engineering, Hanyang University  
+[222 Wangsimni-ro, Seongdong-gu, Seoul, South Korea](http://engr.hanyang.ac.kr/eng/about/visit.php)  
 
 <!-- I am an assistant professor at the [Department of Statistics](http://shb.skku.edu/stat/), [Sungkyunkwan University (SKKU)](http://www.skku.edu/eng_home/index.jsp). Before joining SKKU, I worked as a statistician at [IBM TJ Watson Research Center](http://www.research.ibm.com/labs/watson/index.shtml). I'm interested in developing new statistical methodologies for solving problems in industry and engineering -- in the area of design and analysis of computer experiments, remote-sensing technology, wireless sensor networks and IoT.  -->
 
@@ -26,13 +28,13 @@ Department of Electronic Engineering, Hanyang University
 
 ### Employment
 
-[Department of Electronic Engineering, Hanyang University (HYU)](http://electronic.hanyang.ac.kr/en/index.php), Seoul, Korea
+[Department of Electronic Engineering, Hanyang University](http://electronic.hanyang.ac.kr/en/index.php), Seoul, South Korea.
 
-- Assistant Professor. Aug 2019 - Present
+- Assistant Professor, 2019 - Present.
 
-[IBM TJ Watson Research Center](http://www.research.ibm.com/labs/watson/index.shtml), [Yorktown Heights](https://goo.gl/maps/XJVGy1Rk8U82), [NY](http://www.ny.gov)
+[IBM TJ Watson Research Center](http://www.research.ibm.com/labs/watson/index.shtml), Yorktown Heights, NY, US.
 
-- Research Staff Member.  Aug 2015 - Aug 2019
+- Research Staff Member, 2015 - 2019.
 
 ### Education
 
