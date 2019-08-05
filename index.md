@@ -42,7 +42,7 @@ Department of Electronic Engineering, Hanyang University
 
 - Ph.D., [Electrical and Computer Engineering](https://ece.illinois.edu), 2015.
 
-[Seoul National University](https://illinois.edu/)  
+[Seoul National University](http://www.useoul.edu/)  
 
 - M.S.,  [Electrical and Computer Engineering](http://ee.snu.ac.kr/en), 2010.
 
