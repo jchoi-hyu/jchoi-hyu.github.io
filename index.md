@@ -1,16 +1,8 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-<head>
-  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-  <meta http-equiv="Content-Style-Type" content="text/css" />
-  <meta name="generator" content="pandoc" />
-  <title>Jungwook Choi</title>
-  <style type="text/css">code{white-space: pre;}</style>
-</head>
-<body>
-<div id="header">
-<h1 class="title">Jungwook Choi</h1>
-</div>
+---
+title: Jungwook Choi
+fontsize: 15pt
+---
+
 <style type="text/css">
 
 body, td {
@@ -20,38 +12,50 @@ pre {
   font-size: 15px
 }
 </style>
-<p>jungwook_dot_m_dot_choi_at_gmail_dot_edu / Department of Electronic Engineering, Hanyang University</p>
+
+jungwook_dot_m_dot_choi_at_gmail_dot_edu / Department of Electronic Engineering, Hanyang University
+
 <!-- I am an assistant professor at the [Department of Statistics](http://shb.skku.edu/stat/), [Sungkyunkwan University (SKKU)](http://www.skku.edu/eng_home/index.jsp). Before joining SKKU, I worked as a statistician at [IBM TJ Watson Research Center](http://www.research.ibm.com/labs/watson/index.shtml). I'm interested in developing new statistical methodologies for solving problems in industry and engineering -- in the area of design and analysis of computer experiments, remote-sensing technology, wireless sensor networks and IoT.  -->
-<h3 id="employment">Employment</h3>
-<p><a href="http://electronic.hanyang.ac.kr/en/index.php">Department of Electronic Engineering, Hanyang University (HYU)</a>, Seoul, Korea</p>
-<ul>
-<li>Assistant Professor. Aug 2017 - Present</li>
-</ul>
-<p><a href="http://www.research.ibm.com/labs/watson/index.shtml">IBM TJ Watson Research Center</a>, <a href="https://goo.gl/maps/XJVGy1Rk8U82">Yorktown Heights</a>, <a href="http://www.ny.gov">NY</a></p>
-<ul>
-<li>Research Staff Member. Aug 2015 - Aug 2019</li>
-</ul>
-<h3 id="education">Education</h3>
-<p><a href="https://illinois.edu/">University of Illinois at Urbana Champaign</a></p>
-<ul>
-<li>Ph.D., <a href="https://ece.illinois.edu">Electrical and Computer Engineering</a>, 2015.</li>
-</ul>
-<p><a href="https://illinois.edu/">Seoul National University</a></p>
-<ul>
-<li><p>M.S., <a href="http://ee.snu.ac.kr/en">Electrical and Computer Engineering</a>, 2010.</p></li>
-<li><p>B.S., <a href="http://ee.snu.ac.kr/en">Electrical Engineering</a>, 2008.</p></li>
-</ul>
-<h3 id="research-interests">Research Interests</h3>
-<ul>
-<li>Artificial intelligence algorithms and hardware</li>
-</ul>
-<h3 id="publication">publication</h3>
-<p><a href="https://scholar.google.com/citations?hl=en&amp;user=3qCaIbUAAAAJ&amp;view_op=list_works&amp;sortby=pubdate">Google Scholar</a></p>
+
+
+
+### Employment
+
+[Department of Electronic Engineering, Hanyang University (HYU)](http://electronic.hanyang.ac.kr/en/index.php), Seoul, Korea
+
+- Assistant Professor. Aug 2017 - Present
+
+[IBM TJ Watson Research Center](http://www.research.ibm.com/labs/watson/index.shtml), [Yorktown Heights](https://goo.gl/maps/XJVGy1Rk8U82), [NY](http://www.ny.gov)
+
+- Research Staff Member.  Aug 2015 - Aug 2019
+
+### Education
+
+[University of Illinois at Urbana Champaign](https://illinois.edu/)  
+
+- Ph.D., [Electrical and Computer Engineering](https://ece.illinois.edu), 2015.
+
+[Seoul National University](https://illinois.edu/)  
+
+- M.S.,  [Electrical and Computer Engineering](http://ee.snu.ac.kr/en), 2010.
+
+- B.S.,  [Electrical Engineering](http://ee.snu.ac.kr/en), 2008.
+
+### Research Interests
+
+* Artificial intelligence algorithms and hardware
+
+### publication
+[Google Scholar](https://scholar.google.com/citations?hl=en&user=3qCaIbUAAAAJ&view_op=list_works&sortby=pubdate)
+
+
 <!-- ### Honors
 
 * [Statistics in Physical Engineering Sciences Award](http://www.amstat.org/ASA/Your-Career/Awards/Statistics-in-Physical-Engineering-Sciences-Award.aspx), [American Statistical Society](http://www.amstat.org), 2018.
 * Career Development Award, [Korean International Statistical Society](https://statkiss.org), 2016.
 * [Army Commendation Medal](https://www.govinfo.gov/content/pkg/CFR-2008-title32-vol3/xml/CFR-2008-title32-vol3-sec578-20.xml), United States Department of the Army, 2004. -->
+
+
 <!-- ### Publication
 
 #### Statistics Journals
@@ -82,10 +86,13 @@ pre {
 1. Hong, B., Ko, Y., Kim, J., Ok, E., Hwang, Y. and Kim, H. (2013). [Sternocleidomastoid Ultrasonography Data for Muscular Torticollis in Infants.](http://onlinelibrary.wiley.com/doi/10.1002/mus.23712/full) *Muscle & Nerve*, **48**, 100- 104.
 1. Chung, H., Kong, E., Edwards, J., Weismer, G., Fourakis, M. and Hwang, Y. (2012). [Cross-linguistic Studies of Children’s and Adults’ Vowel Spaces.](http://asa.scitation.org/doi/abs/10.1121/1.3651823) *The Journal of the Acoustical Society of America*. **131**, 442–454.
 1. Wang, F., Hwang, Y., Qian, P. Z. G. and Wang, X. (2010). [A Statistics-Guided Approach to Precise Characterization of Nanowire Morphology.](http://pubs.acs.org/doi/abs/10.1021/nn901530e) *ACS Nano*, **4**, 855–862. -->
+
+
 <!-- ### Reports
 
 1. Hwang, Y., Lee, E., Cho, D., Zhang, Q. (2018) A Simple Approach for Complex Data Using Spline-based Multilevel Model.
 1. Qian, P., Amemiya, Y.,  Hwang, Y. (2017). A Structural Equation Method for Modeling Multivariate Data from Computer Experiments: with Application to Data Center Thermal Management. Under revision for *Technometrics*. -->
+
 <!-- ### Teaching
 
 * Introduction to Mathematical Statistics (STA2014) 2017F
@@ -94,6 +101,7 @@ pre {
 * Introduction to Statistical Computing -- with DataCamp (STA2016) 2018F, 2019S
 * Large Scale Data Management and Visualization -- with DataCamp (STA3034) 2018F
 * Statistical Consulting -- with DataCamp (STA5034) 2019S -->
+
 <!-- ### Selected Presentations
 
 * Department of Statistics, Inha  University, Incheon, Korea. 2019.
@@ -105,38 +113,46 @@ pre {
 * Department of Industrial & System Engineering, KAIST, Daejeon, Korea. 2015.
 * H. Milton Stewart School of Industrial & Systems Engineering, Georgia Institute of Technology, Atlanta, GA. 2015.
 * Department of Industrial and Management Engineering, POSTECH. Pohang, Korea. 2014. -->
+
 <!-- ### Research Grants
 
 * NRF-2017R1C1B5075436 (PI, 2017-2020).
 * NRF-2018M3A9E8021503 (Co-PI, 2018-2022).
 * KOFAC-2018FBA0007 (Undergraduate Research Program, 2018F). -->
+
 <!-- ### Patent
 
 * Multi-model Blending (US20150347922 A1)
 * Building Energy Consumption Forecasting Procedure Using Ambient Temperature, Enthalpy, Bias Corrected Weather Forecast and Outlier  Corrected Sensor Data (US20150331023)
 * Parameter-dependent model-blending with multi-expert based machine learning and proxy sites (US20170017895 A1)
 * Detection Algorithms for Distributed Emission Sources of Abnormal Events (US20170147927) -->
+
 <!-- ### Consulting -->
+
 <!-- * Statistical Model Building, IBM T. J. Watson Research Center, Aug 2018 - Present. -->
+
+
 <!-- ### Membership
 
 * [American Statistical Association](http://www.amstat.org)
 * [Korean International Statistics Society](https://statkiss.org)
 * [Korean Statistical Society](http://www.kss.or.kr)
 * [INFORMS](https://www.informs.org) -->
+
 <!-- ### Professional Service
 
 Associate editor for [Applied Stochastic Models in Business and Industry](https://onlinelibrary.wiley.com/journal/15264025).
 <!-- and [Communications for Statistical Applications and Methods](http://www.csam.or.kr/main.html).  -->
+
 <!-- Referee for _Technometrics, Statistica Sinica, Journal of Nonparametric Statistics, Statistics and Probability Letters, PLOS ONE, SIAM/ASA Journal on Uncertainty Quantification._ -->
+
 <!-- ```{r, echo=FALSE}
 htmltools::includeHTML("analytics.html")
 ``` -->
+
 <!-- ### Miscellaneous
 
 - [Google Scholar profile](https://scholar.google.com/citations?user=pEdCzOQAAAAJ&hl=en)
 - [Github](https://github.com/ydhwang)
 - [Twitter](https://twitter.com/youngdeokhwang)
 - [Links](links.html) -->
-</body>
-</html>
