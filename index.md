@@ -45,8 +45,8 @@ jungwook_dot_m_dot_choi_at_gmail_dot_edu / Department of Electronic Engineering,
 
 * Artificial intelligence algorithms and hardware
 
-### publication
-[Google Scholar](https://scholar.google.com/citations?hl=en&user=3qCaIbUAAAAJ&view_op=list_works&sortby=pubdate)
+### Publication
+[Jungwook's Google Scholar](https://scholar.google.com/citations?hl=en&user=3qCaIbUAAAAJ&view_op=list_works&sortby=pubdate)
 
 
 <!-- ### Honors
