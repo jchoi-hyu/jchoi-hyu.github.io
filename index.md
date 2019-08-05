@@ -23,7 +23,7 @@ jungwook_dot_m_dot_choi_at_gmail_dot_com / Department of Electronic Engineering,
 
 [Department of Electronic Engineering, Hanyang University (HYU)](http://electronic.hanyang.ac.kr/en/index.php), Seoul, Korea
 
-- Assistant Professor. Aug 2017 - Present
+- Assistant Professor. Aug 2019 - Present
 
 [IBM TJ Watson Research Center](http://www.research.ibm.com/labs/watson/index.shtml), [Yorktown Heights](https://goo.gl/maps/XJVGy1Rk8U82), [NY](http://www.ny.gov)
 
