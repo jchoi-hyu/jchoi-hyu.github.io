@@ -14,7 +14,9 @@ pre {
 </style>
 
 <!-- jungwook.m.choi@gmail.com   -->
-<img src="./email.png" width="200" />  
+<img src="email.png" width="200" />  
+
+<!-- ![](email.png){ width=20% } -->
 
 Department of Electronic Engineering, Hanyang University
 
