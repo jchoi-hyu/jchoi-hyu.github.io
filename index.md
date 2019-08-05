@@ -13,7 +13,10 @@ pre {
 }
 </style>
 
-jungwook_dot_m_dot_choi_at_gmail_dot_com / Department of Electronic Engineering, Hanyang University
+<!-- jungwook.m.choi@gmail.com   -->
+<img src="./email.png" width="200" />  
+
+Department of Electronic Engineering, Hanyang University
 
 <!-- I am an assistant professor at the [Department of Statistics](http://shb.skku.edu/stat/), [Sungkyunkwan University (SKKU)](http://www.skku.edu/eng_home/index.jsp). Before joining SKKU, I worked as a statistician at [IBM TJ Watson Research Center](http://www.research.ibm.com/labs/watson/index.shtml). I'm interested in developing new statistical methodologies for solving problems in industry and engineering -- in the area of design and analysis of computer experiments, remote-sensing technology, wireless sensor networks and IoT.  -->
 
