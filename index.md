@@ -53,7 +53,7 @@ Department of Electronic Engineering, Hanyang University
 * Artificial intelligence algorithms and hardware
 
 ### Publication
-[Jungwook's Google Scholar](https://scholar.google.com/citations?hl=ko&user=YPT98zwAAAAJ&view_op=list_works&sortby=pubdate)
+[Jungwook's Google Scholar](https://scholar.google.com/citations?hl=en&user=YPT98zwAAAAJ&view_op=list_works&sortby=pubdate)
 
 
 <!-- ### Honors
