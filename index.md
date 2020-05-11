@@ -13,8 +13,9 @@ pre {
 }
 </style>
 
+choij@hanyang.ac.kr
 <!-- jungwook.m.choi@gmail.com   -->
-<img src="email.png" width="200" />  
+<!-- img src="email.png" width="200" /-->  
 
 <!-- ![](email.png){ width=20% } -->
 
@@ -51,115 +52,24 @@ Department of Electronic Engineering, Hanyang University
 ### Research Interests
 
 * Artificial intelligence algorithms and hardware
+* [Lab 소개자료](https://github.com/jchoi-hyu/jchoi-hyu.github.io/blob/master/AIHA-%EC%97%B0%EA%B5%AC%EB%82%B4%EC%9A%A9%EC%86%8C%EA%B0%9C%2020200421.pdf)
+  
+### Research Projects
+
+* 2020 - 2024: 인공지능대학원 지원사업
+* 2020 - 2027: 차세대지능형반도체 기술개발사업 - 데이터 중심 서버향 고성능 인공지능 컴퓨팅 플랫폼
+* 2020 - 2024: 차세대지능형반도체 기술개발사업 - 데이터 재사용 고도화 초저전력 엣지용 딥러닝 프로세서 기술개발  
+  
 
 ### Publication
-[Jungwook's Google Scholar](https://scholar.google.com/citations?hl=en&user=YPT98zwAAAAJ&view_op=list_works&sortby=pubdate)
+[Jungwook's Google Scholar](https://scholar.google.com/citations?hl=en&user=YPT98zwAAAAJ&view_op=list_works&sortby=pubdate)  
+  
+
+### News
+We are recruiting highly motivated students (for MS-PhD) with strong research interestes in the following topics:
+* Compute-efficient deep learning training and inference algorithms (Quantization and Pruning)
+* High performance and low power neural processor architecture design and implementation
+* Deep learning performance analysis and dataflow/data-reuse optimization software
+* Robust deep learning algorithms for in-memory computing (ReRAM and PCRAM)
 
 
-<!-- ### Honors
-
-* [Statistics in Physical Engineering Sciences Award](http://www.amstat.org/ASA/Your-Career/Awards/Statistics-in-Physical-Engineering-Sciences-Award.aspx), [American Statistical Society](http://www.amstat.org), 2018.
-* Career Development Award, [Korean International Statistical Society](https://statkiss.org), 2016.
-* [Army Commendation Medal](https://www.govinfo.gov/content/pkg/CFR-2008-title32-vol3/xml/CFR-2008-title32-vol3-sec578-20.xml), United States Department of the Army, 2004. -->
-
-
-<!-- ### Publication
-
-#### Statistics Journals
-1. Zhang, Q. and  Hwang, Y. (2019+). Sequential Model-based Optimization for Continuous Inputs with Finite Decision Space. *Technometrics*. to appear.
-1. Sun, F., Gramacy, R. B., Haaland, B., Lu, S. and Hwang, Y. (2019).
-[Synthesizing Simulation and Field Data of Solar Irradiance](https://onlinelibrary.wiley.com/doi/full/10.1002/sam.11414). *Statistical Analysis and Data Mining*, **12**, 311-324. preprint on [arXiv:1806.05131](https://arxiv.org/abs/1806.05131).
-1. Xu, X., Hwang, Y., Kim, T., Wang, F., Wang, X., Chien, P. (2019+). [Level-expansion: A Statistical Sequential Design Methodology with Application to Nanomaterial Synthesis](https://www.tandfonline.com/doi/full/10.1080/00224065.2019.1571335). *Journal of Quality Technology*, to appear.
-1. Hwang, Y., Kim, H., Chang, W., Yeo, K. and Kim, Y. (2019). [Bayesian Pollution Source Identification via an Inverse Physics Model](https://www.sciencedirect.com/science/article/pii/S0167947318302822).  *Computational Statistics and Data Analysis*, **134**, 76-92.
-1. Hwang, Y., Lu, S. and J. Kim (2018). [Bottom-up Estimation and Top-down Prediction: Solar Energy Prediction Combining Information from Multiple Sources](http://dx.doi.org/10.1214/18-AOAS1145). *Annals of Applied Statistics*, **12**, 2096-2120.
-1. Hwang, Y., Barut, E., and Yeo, K. (2018). [Statistical-physical Estimation of Pollution Emission](http://www3.stat.sinica.edu.tw/statistica/J28N2/J28N217/J28N217.html). *Statistica Sinica*, **28**, 921-940.
-1. Hwang, Y., Wright, S., and Hanlon, B. (2017). [Estimation and Testing Problems in Auditory Neuroscience via Clustering.](http://onlinelibrary.wiley.com/doi/10.1111/biom.12652/full) *Biometrics*,
-**73**, 1010–1017.
-1. Hwang, Y., He, X. and Qian, P. Z. G. (2016). [Sliced Orthogonal Array Based Latin Hypercube Designs.](http://www.tandfonline.com/doi/abs/10.1080/00401706.2014.993092) *Technometrics*, **58**, 50–61.
-1. Liu, X., Yeo, K., Hwang, Y., Singh, J. and Kalagnanam, J. (2016). [A Statistical Modeling Approach for Air Quality Data Based on Physical Dispersion Processes and Its Application to Ozone Modeling.](http://projecteuclid.org/euclid.aoas/1469199892) *Annals of Applied Statistics*, **10**, 756–785.
-1. Jiang, H., Schörgendorfer, A., Hwang, Y. and Amemiya, Y. (2015). [A Practical Approach to Spatio-Temporal Analysis.](http://www.jstor.org/stable/24311021) *Statistica Sinica*, **25**, 369-384.
-1. Qian, P. Z. G., Ai, M., Hwang, Y., and Su, H. (2014). [Asymmetric Nested Lattice Samples.](http://www.tandfonline.com/doi/abs/10.1080/00401706.2013.800002) *Technometrics*, **56**, 46–54.
-
-
-#### Collaborative
-
-1. Lee, H. Kim, E., Baek, D., Hwang, Y., Kim, J., Lim, S., Sul, B. and Hong, B. (2019).
-[The Role of Regular Physical Therapy on Spasticity in Children with Cerebral Palsy](https://www.e-arm.org/journal/view.php?number=4093). *Annals of Rehabilitation Medicine*, **43**, 289-296.
-1. Yeo, K., Hwang, Y., Liu, X. and Kalagnanam, J. (2019). [Development of *hp*-inverse Model by Using Generalized Polynomial Chaos.](https://www.sciencedirect.com/science/article/pii/S0045782518306212?dgcid=author) *Computer Methods in Applied Mechanics and Engineering,* **347**, 1-20.
-1. Cho, D. and  Hwang, Y. and Park, J. (2018). [More Buzz, More Vibes: Impact of Social Media on Concert Distribution](https://doi.org/10.1016/j.jebo.2018.09.012). *Journal of Economic Behavior & Organization*, **156**, 103-113.
-1. Wright, S., Wallace, E. and Hwang, Y. and Maganti, R. (2016). [Seizure Phenotypes and Sleep–Wake Pattern of Seizures in KCNA1-null Mutant Mice.](http://www.sciencedirect.com/science/article/pii/S1525505015006538) *Epilepsy & Behavior*, **55**, 24–29.
-1. Chae, Y. T., Horesh, R., Hwang, Y., Lee, Y. M. (2016). [Artificial Neural Network Model for Forecasting Sub-Hourly Electricity Usage in Commercial Buildings](http://www.sciencedirect.com/science/article/pii/S0378778815304102). *Energy and Buildings*, **111**, 184–194.
-1. Wright, S., Hwang, Y., and Oertel, D. (2014). [Synaptic Transmission between End bulbs of Held and Bushy Cells in the Cochlear Nucleus of Mice with a Mutation in Otoferlin.](http://jn.physiology.org/content/112/12/3173) *Journal of Neurophysiology*, **112**, 3173–3188.
-1. Hong, B., Ko, Y., Kim, J., Ok, E., Hwang, Y. and Kim, H. (2013). [Sternocleidomastoid Ultrasonography Data for Muscular Torticollis in Infants.](http://onlinelibrary.wiley.com/doi/10.1002/mus.23712/full) *Muscle & Nerve*, **48**, 100- 104.
-1. Chung, H., Kong, E., Edwards, J., Weismer, G., Fourakis, M. and Hwang, Y. (2012). [Cross-linguistic Studies of Children’s and Adults’ Vowel Spaces.](http://asa.scitation.org/doi/abs/10.1121/1.3651823) *The Journal of the Acoustical Society of America*. **131**, 442–454.
-1. Wang, F., Hwang, Y., Qian, P. Z. G. and Wang, X. (2010). [A Statistics-Guided Approach to Precise Characterization of Nanowire Morphology.](http://pubs.acs.org/doi/abs/10.1021/nn901530e) *ACS Nano*, **4**, 855–862. -->
-
-
-<!-- ### Reports
-
-1. Hwang, Y., Lee, E., Cho, D., Zhang, Q. (2018) A Simple Approach for Complex Data Using Spline-based Multilevel Model.
-1. Qian, P., Amemiya, Y.,  Hwang, Y. (2017). A Structural Equation Method for Modeling Multivariate Data from Computer Experiments: with Application to Data Center Thermal Management. Under revision for *Technometrics*. -->
-
-<!-- ### Teaching
-
-* Introduction to Mathematical Statistics (STA2014) 2017F
-* Design of Experiments (STA3026) 2018S
-* Design and Analysis of Experiments (STA5031) 2018S
-* Introduction to Statistical Computing -- with DataCamp (STA2016) 2018F, 2019S
-* Large Scale Data Management and Visualization -- with DataCamp (STA3034) 2018F
-* Statistical Consulting -- with DataCamp (STA5034) 2019S -->
-
-<!-- ### Selected Presentations
-
-* Department of Statistics, Inha  University, Incheon, Korea. 2019.
-* Department of Statistics, Chung-Ang  University, Seoul, Korea. 2018.
-* Department of Statistics, Seoul National University, Seoul, Korea. 2018.
-* Tutorial on Industrial Statistics, International Conference on Consumer Electronics Asia. Jeju, Korea. 2018.
-* The 2nd Pacific Rim Statistical Conference for Production Engineering, Seoul, Korea. 2016.
-* Department of Statistics, Korea University, Seoul, Korea. 2016.
-* Department of Industrial & System Engineering, KAIST, Daejeon, Korea. 2015.
-* H. Milton Stewart School of Industrial & Systems Engineering, Georgia Institute of Technology, Atlanta, GA. 2015.
-* Department of Industrial and Management Engineering, POSTECH. Pohang, Korea. 2014. -->
-
-<!-- ### Research Grants
-
-* NRF-2017R1C1B5075436 (PI, 2017-2020).
-* NRF-2018M3A9E8021503 (Co-PI, 2018-2022).
-* KOFAC-2018FBA0007 (Undergraduate Research Program, 2018F). -->
-
-<!-- ### Patent
-
-* Multi-model Blending (US20150347922 A1)
-* Building Energy Consumption Forecasting Procedure Using Ambient Temperature, Enthalpy, Bias Corrected Weather Forecast and Outlier  Corrected Sensor Data (US20150331023)
-* Parameter-dependent model-blending with multi-expert based machine learning and proxy sites (US20170017895 A1)
-* Detection Algorithms for Distributed Emission Sources of Abnormal Events (US20170147927) -->
-
-<!-- ### Consulting -->
-
-<!-- * Statistical Model Building, IBM T. J. Watson Research Center, Aug 2018 - Present. -->
-
-
-<!-- ### Membership
-
-* [American Statistical Association](http://www.amstat.org)
-* [Korean International Statistics Society](https://statkiss.org)
-* [Korean Statistical Society](http://www.kss.or.kr)
-* [INFORMS](https://www.informs.org) -->
-
-<!-- ### Professional Service
-
-Associate editor for [Applied Stochastic Models in Business and Industry](https://onlinelibrary.wiley.com/journal/15264025).
-<!-- and [Communications for Statistical Applications and Methods](http://www.csam.or.kr/main.html).  -->
-
-<!-- Referee for _Technometrics, Statistica Sinica, Journal of Nonparametric Statistics, Statistics and Probability Letters, PLOS ONE, SIAM/ASA Journal on Uncertainty Quantification._ -->
-
-<!-- ```{r, echo=FALSE}
-htmltools::includeHTML("analytics.html")
-``` -->
-
-<!-- ### Miscellaneous
-
-- [Google Scholar profile](https://scholar.google.com/citations?user=pEdCzOQAAAAJ&hl=en)
-- [Github](https://github.com/ydhwang)
-- [Twitter](https://twitter.com/youngdeokhwang)
-- [Links](links.html) -->
