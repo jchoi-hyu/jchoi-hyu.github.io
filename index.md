@@ -50,7 +50,9 @@ Department of Electronic Engineering, Hanyang University
 
 ### Publication
 [Jungwook's Google Scholar](https://scholar.google.com/citations?hl=en&user=YPT98zwAAAAJ&view_op=list_works&sortby=pubdate)  
-   
+<div class="blank"></div>   
+<div class="blank"></div>   
+<div class="blank"></div>   
 
 ### News
 I am recruiting highly motivated graduate students (MS/PhD programs) with strong research interests in the following topics
