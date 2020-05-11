@@ -38,7 +38,7 @@ Department of Electronic Engineering, Hanyang University
 ### Research Interests
 
 * Artificial intelligence algorithms and hardware
-* [Lab 소개자료](https://github.com/jchoi-hyu/jchoi-hyu.github.io/blob/master/AIHA-%EC%97%B0%EA%B5%AC%EB%82%B4%EC%9A%A9%EC%86%8C%EA%B0%9C%2020200421.pdf)
+* [Lab 소개자료](https://github.com/jchoi-hyu/jchoi-hyu.github.io/raw/master/AIHA-%EC%97%B0%EA%B5%AC%EB%82%B4%EC%9A%A9%EC%86%8C%EA%B0%9C%2020200421.pdf)
     
   
 ### Research Projects
