@@ -1,2 +1,2 @@
 
-pandoc index.md -f markdown+blank_before_header -t html -s -o index.html
+pandoc index.md -f markdown -t html -s -o index.html
