@@ -70,7 +70,8 @@ Please contact me with your CV/Resume if interested!
 \ 
 
 ### Publications
-[Jungwook's Google Scholar page](https://scholar.google.com/citations?hl=en&user=YPT98zwAAAAJ&view_op=list_works&sortby=pubdate){target="blank"}  
+<!-- [Jungwook's Google Scholar page](https://scholar.google.com/citations?hl=en&user=YPT98zwAAAAJ&view_op=list_works&sortby=pubdate){target="blank"} -->
+[Jungwook's Google Scholar page](https://scholar.google.com/citations?hl=en&user=YPT98zwAAAAJ&view_op=list_works){target="blank"}  
 
 \ 
 
