@@ -4,7 +4,7 @@ title: Jungwook Choi
 fontsize: 15pt
 ---
 
-![](./jchoi67_photo_small.png)
+![](./jchoi67_photo.png)
 
 
 <style type="text/css">
