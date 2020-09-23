@@ -38,6 +38,7 @@ I am recruiting highly motivated graduate students (MS/PhD programs) with strong
 * Robust deep learning algorithms for in-memory computing (ReRAM and PCRAM)
 
 ** Full tuition (+ stipend) support is available for students who apply for the MS-PhD integrated program. **
+
 Please contact me with your CV/Resume if interested!
     
 \ 
