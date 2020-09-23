@@ -1,5 +1,5 @@
 
-![image](./jchoi67_photo.png)
+![image](./jchoi67_photo_small.png)
 
 ---
 title: Jungwook Choi
