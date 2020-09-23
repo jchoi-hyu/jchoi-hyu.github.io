@@ -1,3 +1,6 @@
+
+![image](./jchoi67_photo.png)
+
 ---
 title: Jungwook Choi
 fontsize: 15pt
@@ -22,6 +25,19 @@ choij@hanyang.ac.kr
 <!-- jungwook.m.choi@gmail.com   -->
 <!-- img src="email.png" width="200" /-->  
 
+
+\ 
+
+### News
+I am recruiting highly motivated graduate students (MS/PhD programs) with strong research interests in the following topics:
+
+* Compute-efficient deep learning training and inference algorithms (Quantization and Pruning)
+* High performance and low power neural processor architecture design and implementation
+* Deep learning performance analysis and dataflow/data-reuse optimization software
+* Robust deep learning algorithms for in-memory computing (ReRAM and PCRAM)
+
+** Full tuition (+ stipend) support is available for students who apply for the MS-PhD integrated program. **
+Please contact me with your CV/Resume if interested!
     
 \ 
 
@@ -47,6 +63,7 @@ choij@hanyang.ac.kr
 * 2020 - 2027: 과학기술정보통신부 차세대지능형반도체 기술개발사업 - 2,000 TFLOPS급 서버 인공지능 딥러닝 프로세서 및 모듈 개발
 * 2020 - 2024: 과학기술정보통신부 차세대지능형반도체 기술개발사업 - 데이터 재사용 고도화 초저전력 엣지용 딥러닝 프로세서 기술개발  
 * 2020 - 2024: 과학기술정보통신부 인공지능대학원 지원사업
+* 2020 - 2023: 과학기술정보통신부 시스템반도체융합전문인력육성사업 - 산학 밀착형 IoT 반도체 시스템 융합 인력양성 센터
 
 \ 
 
@@ -55,7 +72,7 @@ choij@hanyang.ac.kr
 
 \ 
 
-### News
+<!-- ### News
 I am recruiting highly motivated graduate students (MS/PhD programs) with strong research interests in the following topics:
 
 * Compute-efficient deep learning training and inference algorithms (Quantization and Pruning)
@@ -63,4 +80,5 @@ I am recruiting highly motivated graduate students (MS/PhD programs) with strong
 * Deep learning performance analysis and dataflow/data-reuse optimization software
 * Robust deep learning algorithms for in-memory computing (ReRAM and PCRAM)
 
-Please contact me with your CV/Resume if interested!
+Full tuition (+ stipend) support is available for students who apply for the MS-PhD integrated program.
+Please contact me with your CV/Resume if interested! -->
