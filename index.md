@@ -18,7 +18,7 @@ pre {
 </style>
 
 <!-- Department of Electronic Engineering, Hanyang University -->
-Artificial Intelligence Hardware & Algorithms (AIHA) Lab.
+Artificial Intelligence Hardware & Algorithms (AIHA) Lab. ([Lab Homepage](https://sites.google.com/view/aihalab){target="blank"})
 
 Department of Electronic Engineering, Hanyang University ([222 Wangsimni-ro, Seongdong-gu, Seoul, South Korea](http://engr.hanyang.ac.kr/eng/about/visit.php){target="blank"}) 
 
@@ -62,10 +62,15 @@ Please contact me with your CV/Resume if interested!
   
 ### Research Projects
 
-* 2020 - 2027: 과학기술정보통신부 차세대지능형반도체 기술개발사업 - 2,000 TFLOPS급 서버 인공지능 딥러닝 프로세서 및 모듈 개발
+* 2020 - 2023: 과학기술정보통신부 차세대지능형반도체 기술개발사업 - 2,000 TFLOPS급 서버 인공지능 딥러닝 프로세서 및 모듈 개발
 * 2020 - 2024: 과학기술정보통신부 차세대지능형반도체 기술개발사업 - 데이터 재사용 고도화 초저전력 엣지용 딥러닝 프로세서 기술개발  
 * 2020 - 2024: 과학기술정보통신부 인공지능대학원 지원사업
 * 2020 - 2023: 과학기술정보통신부 시스템반도체융합전문인력육성사업 - 산학 밀착형 IoT 반도체 시스템 융합 인력양성 센터
+* 2020 - 2027: 산업통상자원부 산업기술거점센터육성시범사업 - 제조·공정·물류 산업지능화 산업기술거점센터
+* 2022 - 2025: 과학기술정보통신부 PIM 인공지능반도체 핵심기술개발사업 - NVM 기반 PIM 반도체 컴퓨팅을 위한 논리합성 SW 개발
+* 2022 - 2025: 과학기술정보통신부 PIM 인공지능반도체 핵심기술개발사업 - 엣지용 분산형 온칩메모리-연산기 융합 PIM 반도체 기술개발
+* 2023 - 2028: 과학기술정보통신부 인공지능반도체고급인재양성사업 - 인공지능반도체대학원
+* 2023 - 2032: 과학기술정보통신부 선도연구센터지원사업 - H3 (극한 스케일-극한 물성-이종 집적) 한계 극복 반도체 기술 연구 센터
 
 \ 
 
@@ -76,7 +81,7 @@ Please contact me with your CV/Resume if interested!
 \ 
 
 <!-- ### News
-I am recruiting highly motivated graduate students (MS/PhD programs) with strong research interests in the following topics:
+I am recruiting highly motivated graduate students (PhD programs) with strong research interests in the following topics:
 
 * Compute-efficient deep learning training and inference algorithms (Quantization and Pruning)
 * High performance and low power neural processor architecture design and implementation
